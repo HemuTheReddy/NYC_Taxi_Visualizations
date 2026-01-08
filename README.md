@@ -32,6 +32,12 @@ The dashboard functions as a modular pipeline, allowing for "What-If" scenarios:
 
 ---
 
+## Dataset
+
+Data was obtained from old Kaggle competition: https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data
+
+---
+
 ## 🚀 Quick Start
 
 1. Clone the repository:
