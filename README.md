@@ -18,7 +18,7 @@ The project consists of three core components:
 1. **The Statistical Engine (`analysis.py`)**: A backend script dedicated to heavy data cleaning, feature engineering, and mathematical validation (PCA, Hypothesis Testing).
 2. **The Visualization Gallery (`vis.py`)**: A thorough Exploratory Data Analysis (EDA) suite containing 20+ advanced plots ranging from 3D spatial clusters to dense hexbin distributions.
 3. **The Interactive Dashboard (`app.py`)**: A Dash-based web application that allows users to iteratively clean, transform, and visualize the data in real-time.
-4. **The Executive Report**: A formal synthesis of findings, methodology, and visualizations derived from the analysis.
+4. **The Executive Report (`FinalReport.pdf`) **: A formal synthesis of findings, methodology, and visualizations derived from the analysis.
 
 ---
 
