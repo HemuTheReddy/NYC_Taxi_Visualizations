@@ -7,6 +7,10 @@ This project was completed for the Fall 2025 Semester Term Project of CS5764. It
 
 ---
 
+Dashboard GCP Link: (to be added)
+
+---
+
 ## 🏗️ Project Architecture
 
 The project consists of three core components:
