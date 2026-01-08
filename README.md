@@ -30,6 +30,9 @@ The dashboard functions as a modular pipeline, allowing for "What-If" scenarios:
 * **PCA Explorer:** Adjust components via slider to visualize cumulative explained variance.
 * **Multivariate Visualizations:** Explore 3D scatter plots, spatial KDE maps, and bivariate regression models.
 
+### Showcase
+
+![Visualization Example](assets/dashboard.png)
 ---
 
 ## Dataset
